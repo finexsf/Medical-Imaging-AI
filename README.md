@@ -1,3 +1,3 @@
 详见《项目介绍.doc》  
 201007240033 是 2010 年的 results 结果，由于涉及患者隐私，故仅放置一个作为展示  
-
+checkpoint_connector.py 是 lama 的代码  
